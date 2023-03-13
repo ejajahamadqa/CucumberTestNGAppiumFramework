@@ -3,6 +3,9 @@
 *.iws
 *.log
 .idea/
+.gradle/
+gradlew
+gradlew.bat
 out/
 build/
 target/
